@@ -21,12 +21,22 @@
 		- perfect, and balanced binary tree
 
 	Look to the following links for further resources on this Binary Tree project:
-<!DOCTYPE html>
+<html>
+<body>
+
 <html>
 <head>
 <style>
-a {
+
+a:visited {
   color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
 }
 </style>
 </head>
@@ -34,8 +44,14 @@ a {
 
 
 
+
+
+
+<h1>RESOURCES</h1>
+
 <p><a href="https://intranet.hbtn.io/rltoken/ueKZ6aZ9wiI24gJuwBzJjw" target="_blank">Binary Trees</a></p>
-<p><b><a href="https://intranet.hbtn.io/rltoken/RQPv9zLO03M_DDKiuBNQZw" target="_blank">Data Structure and Algorithims - Tree</a><b></p>
+
+<p><a href="https://intranet.hbtn.io/rltoken/RQPv9zLO03M_DDKiuBNQZw" target="_blank">Data Structure and Algorithims - Tree</a></p>
 
 <p><a href="https://intranet.hbtn.io/rltoken/evS8PaZamNIs2wEEKkYa7A" target="_blank">Tree Traversal</a></p>
 <p><a href="https://intranet.hbtn.io/rltoken/18u-Sdpdcwj9HcNNxo4kmg" target="_blank">Data Structure - Binary Tree</a></p>
