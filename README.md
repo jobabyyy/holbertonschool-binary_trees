@@ -23,14 +23,16 @@
 	Look to the following links for further resources on this Binary Tree project:
 	
 	<!DOCTYPE html>
-	<html>
-	<body>
-	<a href="https://intranet.hbtn.io/rltoken/ueKZ6aZ9wiI24gJuwBzJjw">Binary Tree</a>
+<html>
+<body>
 
-	<a href="https://intranet.hbtn.io/rltoken/RQPv9zLO03M_DDKiuBNQZw">Data Structure & Algorithms - Tree</a>
+<h1>RESOURCES</h1>
 
-	<a href="https://intranet.hbtn.io/rltoken/evS8PaZamNIs2wEEKkYa7A">Tree Traversal</a>
+<p><a href="https://intranet.hbtn.io/rltoken/ueKZ6aZ9wiI24gJuwBzJjw">Binary Trees</a></p>
+<p><a href="https://intranet.hbtn.io/rltoken/RQPv9zLO03M_DDKiuBNQZw">Data Structure and Algorithims - Tree</a></p>
+<p><a href="https://intranet.hbtn.io/rltoken/evS8PaZamNIs2wEEKkYa7A">Tree Traversal</a></p>
+<p><a href="https://intranet.hbtn.io/rltoken/18u-Sdpdcwj9HcNNxo4kmg">Data Structure - Binary Tree</a></p>
 
-	<a href="https://intranet.hbtn.io/rltoken/18u-Sdpdcwj9HcNNxo4kmg">Data Structures: Binary Tree</a> </b>
-	</html>
-	</body>
+
+</body>
+</html>
