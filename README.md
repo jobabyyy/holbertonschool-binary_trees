@@ -21,26 +21,8 @@
 		- perfect, and balanced binary tree
 
 	Look to the following links for further resources on this Binary Tree project:
-<html>
-<body>
 
-<html>
-<head>
-<style>
 
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: white;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
-</head>
-<body>
 
 
 
