@@ -22,7 +22,7 @@
 
 	Look to the following links for further resources on this Binary Tree project:
 	
-	<!DOCTYPE html>
+
 <html>
 <body>
 
