@@ -21,7 +21,8 @@
 		- perfect, and balanced binary tree
 
 	Look to the following links for further resources on this Binary Tree project:
-
+	
+	<!DOCTYPE html>
 	<html>
 	<body>
 	<a href="https://intranet.hbtn.io/rltoken/ueKZ6aZ9wiI24gJuwBzJjw">Binary Tree</a>
@@ -30,6 +31,6 @@
 
 	<a href="https://intranet.hbtn.io/rltoken/evS8PaZamNIs2wEEKkYa7A">Tree Traversal</a>
 
-	<a href="https://intranet.hbtn.io/rltoken/18u-Sdpdcwj9HcNNxo4kmg">Data Structures: Binary Tree</a>
+	<a href="https://intranet.hbtn.io/rltoken/18u-Sdpdcwj9HcNNxo4kmg">Data Structures: Binary Tree</a> </b>
 	</html>
 	</body>
